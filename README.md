@@ -51,5 +51,5 @@
 
 Код запроса SQL с решением и комментариями находится в файле [task1.sql](https://github.com/igor-turkin/prod-tasks_1/blob/main/task1.sql)
 
-## Финальная таблица:
+## Итоговая таблица запроса:
 <img src="images/task1.jpg" alt="решение1" width="1000"> 
